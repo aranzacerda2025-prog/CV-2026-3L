@@ -1,0 +1,999 @@
+[
+  {
+    "track_id": 1,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.56,
+    "marca_modelo_crudo": "bmw_m3_coupe_2012",
+    "confianza_marca_modelo": 0.47,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "73WX4360",
+    "confianza_ocr": 0.5,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_1.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_1.jpg",
+    "n_frames": 223,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 14.867,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.093,
+    "fraccion_horizontal_fin": 0.213,
+    "desplazamiento_px": 129.2,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=66)",
+      "perspectiva"
+    ],
+    "region_placa_ocr": "Malaysia",
+    "confianza_region_placa": 0.53,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        74
+      ],
+      [
+        76,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 2,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.46,
+    "marca_modelo_crudo": "hyundai_sonata_sedan_2012",
+    "confianza_marca_modelo": 0.06,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": null,
+    "confianza_ocr": null,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_2.jpg",
+    "ruta_crop_placa": null,
+    "n_frames": 193,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 12.867,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.038,
+    "fraccion_horizontal_fin": 0.143,
+    "desplazamiento_px": 184.1,
+    "preprocesamiento_placa": [],
+    "region_placa_ocr": null,
+    "confianza_region_placa": null,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        82
+      ],
+      [
+        88,
+        113
+      ],
+      [
+        118,
+        121
+      ],
+      [
+        127,
+        127
+      ],
+      [
+        130,
+        130
+      ],
+      [
+        133,
+        142
+      ],
+      [
+        144,
+        189
+      ],
+      [
+        191,
+        192
+      ],
+      [
+        200,
+        214
+      ],
+      [
+        219,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 3,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.63,
+    "marca_modelo_crudo": "dodge_sprinter_cargo_van_2009",
+    "confianza_marca_modelo": 0.07,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "115ART02",
+    "confianza_ocr": 0.89,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_3.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_3.jpg",
+    "n_frames": 223,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 14.867,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 2,
+    "fraccion_horizontal_inicio": 0.361,
+    "fraccion_horizontal_fin": 0.465,
+    "desplazamiento_px": 171.29,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=73)"
+    ],
+    "region_placa_ocr": "France",
+    "confianza_region_placa": 0.67,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        41
+      ],
+      [
+        43,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 4,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:11",
+    "tipo_vehiculo": "camion",
+    "confianza_tipo": 0.62,
+    "marca_modelo_crudo": "ram_c_v_cargo_van_minivan_2012",
+    "confianza_marca_modelo": 0.2,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": null,
+    "confianza_ocr": null,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_4.jpg",
+    "ruta_crop_placa": null,
+    "n_frames": 179,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 11.867,
+    "duracion_segundos": 11.933,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 178,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.272,
+    "fraccion_horizontal_fin": 0.324,
+    "desplazamiento_px": 18.18,
+    "preprocesamiento_placa": [],
+    "region_placa_ocr": null,
+    "confianza_region_placa": null,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        178
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 5,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.88,
+    "marca_modelo_crudo": "hyundai_sonata_sedan_2012",
+    "confianza_marca_modelo": 0.49,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "L397102",
+    "confianza_ocr": 0.85,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_5.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_5.jpg",
+    "n_frames": 224,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 14.933,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.384,
+    "fraccion_horizontal_fin": 0.486,
+    "desplazamiento_px": 249.84,
+    "preprocesamiento_placa": [],
+    "region_placa_ocr": "Armenia",
+    "confianza_region_placa": 0.61,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 6,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.61,
+    "marca_modelo_crudo": "bmw_3_series_sedan_2012",
+    "confianza_marca_modelo": 0.11,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "77M4006",
+    "confianza_ocr": 0.38,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_6.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_6.jpg",
+    "n_frames": 222,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 14.8,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.477,
+    "fraccion_horizontal_fin": 0.517,
+    "desplazamiento_px": 131.41,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=67)"
+    ],
+    "region_placa_ocr": "Malaysia",
+    "confianza_region_placa": 0.57,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        171
+      ],
+      [
+        173,
+        186
+      ],
+      [
+        188,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 7,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:07",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.5,
+    "marca_modelo_crudo": "bmw_m3_coupe_2012",
+    "confianza_marca_modelo": 0.21,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": null,
+    "confianza_ocr": null,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_7.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_7.jpg",
+    "n_frames": 96,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 7.467,
+    "duracion_segundos": 6.4,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 112,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.679,
+    "fraccion_horizontal_fin": 0.645,
+    "desplazamiento_px": 73.3,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=112)"
+    ],
+    "region_placa_ocr": null,
+    "confianza_region_placa": null,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        80
+      ],
+      [
+        82,
+        87
+      ],
+      [
+        90,
+        94
+      ],
+      [
+        105,
+        105
+      ],
+      [
+        107,
+        107
+      ],
+      [
+        111,
+        112
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 8,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.75,
+    "marca_modelo_crudo": "bmw_3_series_sedan_2012",
+    "confianza_marca_modelo": 0.42,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "C4419C",
+    "confianza_ocr": 0.33,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_8.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_8.jpg",
+    "n_frames": 224,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 14.933,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.788,
+    "fraccion_horizontal_fin": 0.748,
+    "desplazamiento_px": 322.68,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=87)"
+    ],
+    "region_placa_ocr": "Indonesia",
+    "confianza_region_placa": 0.21,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 9,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:07",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.57,
+    "marca_modelo_crudo": "geo_metro_convertible_1993",
+    "confianza_marca_modelo": 0.04,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "UTA44",
+    "confianza_ocr": 0.41,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_9.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_9.jpg",
+    "n_frames": 101,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 7.4,
+    "duracion_segundos": 6.733,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 111,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.769,
+    "fraccion_horizontal_fin": 0.687,
+    "desplazamiento_px": 109.17,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=78)"
+    ],
+    "region_placa_ocr": "Malaysia",
+    "confianza_region_placa": 0.61,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        94
+      ],
+      [
+        96,
+        96
+      ],
+      [
+        103,
+        104
+      ],
+      [
+        107,
+        107
+      ],
+      [
+        110,
+        111
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 10,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:10",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.64,
+    "marca_modelo_crudo": "bmw_3_series_sedan_2012",
+    "confianza_marca_modelo": 0.19,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "CA1646",
+    "confianza_ocr": 0.23,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_10.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_10.jpg",
+    "n_frames": 139,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 10.2,
+    "duracion_segundos": 9.267,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 153,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.849,
+    "fraccion_horizontal_fin": 0.756,
+    "desplazamiento_px": 176.7,
+    "preprocesamiento_placa": [],
+    "region_placa_ocr": "Ukraine",
+    "confianza_region_placa": 0.35,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        129
+      ],
+      [
+        133,
+        136
+      ],
+      [
+        149,
+        153
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 11,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:07",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.69,
+    "marca_modelo_crudo": "audi_s6_sedan_2011",
+    "confianza_marca_modelo": 0.06,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "392XEA02",
+    "confianza_ocr": 0.75,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_11.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_11.jpg",
+    "n_frames": 110,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 7.333,
+    "duracion_segundos": 7.333,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 110,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.898,
+    "fraccion_horizontal_fin": 0.857,
+    "desplazamiento_px": 268.87,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=76)"
+    ],
+    "region_placa_ocr": "France",
+    "confianza_region_placa": 0.97,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        107
+      ],
+      [
+        109,
+        110
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 12,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.68,
+    "marca_modelo_crudo": "bmw_m3_coupe_2012",
+    "confianza_marca_modelo": 0.05,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": null,
+    "confianza_ocr": null,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_12.jpg",
+    "ruta_crop_placa": null,
+    "n_frames": 219,
+    "t_inicio_seg": 0.0,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 14.6,
+    "cuadro_inicio": 0,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.974,
+    "fraccion_horizontal_fin": 0.84,
+    "desplazamiento_px": 473.7,
+    "preprocesamiento_placa": [],
+    "region_placa_ocr": null,
+    "confianza_region_placa": null,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        0,
+        174
+      ],
+      [
+        176,
+        176
+      ],
+      [
+        181,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 13,
+    "timestamp_inicio": "00:00:00",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "autobus",
+    "confianza_tipo": 0.56,
+    "marca_modelo_crudo": null,
+    "confianza_marca_modelo": null,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "C122202",
+    "confianza_ocr": 0.82,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_13.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_13.jpg",
+    "n_frames": 195,
+    "t_inicio_seg": 0.133,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 13.0,
+    "cuadro_inicio": 2,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.896,
+    "fraccion_horizontal_fin": 0.829,
+    "desplazamiento_px": 94.8,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=68)",
+      "perspectiva"
+    ],
+    "region_placa_ocr": "Denmark",
+    "confianza_region_placa": 0.83,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        2,
+        11
+      ],
+      [
+        15,
+        17
+      ],
+      [
+        21,
+        21
+      ],
+      [
+        23,
+        98
+      ],
+      [
+        101,
+        165
+      ],
+      [
+        168,
+        169
+      ],
+      [
+        171,
+        173
+      ],
+      [
+        175,
+        176
+      ],
+      [
+        178,
+        179
+      ],
+      [
+        182,
+        182
+      ],
+      [
+        186,
+        187
+      ],
+      [
+        189,
+        190
+      ],
+      [
+        194,
+        195
+      ],
+      [
+        200,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 14,
+    "timestamp_inicio": "00:00:01",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.62,
+    "marca_modelo_crudo": "audi_s5_coupe_2012",
+    "confianza_marca_modelo": 0.09,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "7421984",
+    "confianza_ocr": 0.34,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_14.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_14.jpg",
+    "n_frames": 204,
+    "t_inicio_seg": 1.133,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 13.6,
+    "cuadro_inicio": 17,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.016,
+    "fraccion_horizontal_fin": 0.112,
+    "desplazamiento_px": 199.23,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=74)"
+    ],
+    "region_placa_ocr": "Belarus",
+    "confianza_region_placa": 0.63,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        17,
+        25
+      ],
+      [
+        27,
+        27
+      ],
+      [
+        29,
+        29
+      ],
+      [
+        31,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 15,
+    "timestamp_inicio": "00:00:01",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.86,
+    "marca_modelo_crudo": "ford_edge_suv_2012",
+    "confianza_marca_modelo": 0.78,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": null,
+    "confianza_ocr": null,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_15.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_15.jpg",
+    "n_frames": 203,
+    "t_inicio_seg": 1.4,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 13.533,
+    "cuadro_inicio": 21,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 2,
+    "fraccion_horizontal_inicio": 0.387,
+    "fraccion_horizontal_fin": 0.501,
+    "desplazamiento_px": 220.12,
+    "preprocesamiento_placa": [],
+    "region_placa_ocr": null,
+    "confianza_region_placa": null,
+    "marca_modelo_confianza_suficiente": true,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        21,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 16,
+    "timestamp_inicio": "00:00:02",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.75,
+    "marca_modelo_crudo": "cadillac_escalade_ext_crew_cab_2007",
+    "confianza_marca_modelo": 0.09,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "198AMV",
+    "confianza_ocr": 0.57,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_16.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_16.jpg",
+    "n_frames": 191,
+    "t_inicio_seg": 2.2,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 12.733,
+    "cuadro_inicio": 33,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.961,
+    "fraccion_horizontal_fin": 0.814,
+    "desplazamiento_px": 617.19,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=79)"
+    ],
+    "region_placa_ocr": "Georgia",
+    "confianza_region_placa": 0.32,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        33,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 17,
+    "timestamp_inicio": "00:00:04",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.8,
+    "marca_modelo_crudo": "bmw_m3_coupe_2012",
+    "confianza_marca_modelo": 0.38,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "328AFM05",
+    "confianza_ocr": 0.77,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_17.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_17.jpg",
+    "n_frames": 153,
+    "t_inicio_seg": 4.733,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 10.2,
+    "cuadro_inicio": 71,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.926,
+    "fraccion_horizontal_fin": 0.804,
+    "desplazamiento_px": 548.59,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=72)"
+    ],
+    "region_placa_ocr": "Ireland",
+    "confianza_region_placa": 0.35,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        71,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 18,
+    "timestamp_inicio": "00:00:06",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.88,
+    "marca_modelo_crudo": "bmw_3_series_sedan_2012",
+    "confianza_marca_modelo": 0.08,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "6031F202",
+    "confianza_ocr": 0.79,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_18.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_18.jpg",
+    "n_frames": 125,
+    "t_inicio_seg": 6.6,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 8.333,
+    "cuadro_inicio": 99,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.924,
+    "fraccion_horizontal_fin": 0.848,
+    "desplazamiento_px": 477.12,
+    "preprocesamiento_placa": [],
+    "region_placa_ocr": "France",
+    "confianza_region_placa": 0.91,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        99,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 19,
+    "timestamp_inicio": "00:00:08",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.84,
+    "marca_modelo_crudo": "bmw_x6_suv_2012",
+    "confianza_marca_modelo": 0.2,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "909AKD02",
+    "confianza_ocr": 0.99,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_19.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_19.jpg",
+    "n_frames": 98,
+    "t_inicio_seg": 8.4,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 6.533,
+    "cuadro_inicio": 126,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.26,
+    "fraccion_horizontal_fin": 0.341,
+    "desplazamiento_px": 65.07,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=85)"
+    ],
+    "region_placa_ocr": "Turkey",
+    "confianza_region_placa": 0.48,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        126,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 20,
+    "timestamp_inicio": "00:00:10",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.61,
+    "marca_modelo_crudo": "lamborghini_aventador_coupe_2012",
+    "confianza_marca_modelo": 0.12,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": null,
+    "confianza_ocr": null,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_20.jpg",
+    "ruta_crop_placa": null,
+    "n_frames": 61,
+    "t_inicio_seg": 10.867,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 4.067,
+    "cuadro_inicio": 163,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.019,
+    "fraccion_horizontal_fin": 0.063,
+    "desplazamiento_px": 88.69,
+    "preprocesamiento_placa": [],
+    "region_placa_ocr": null,
+    "confianza_region_placa": null,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        163,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  },
+  {
+    "track_id": 21,
+    "timestamp_inicio": "00:00:13",
+    "timestamp_fin": "00:00:14",
+    "tipo_vehiculo": "auto",
+    "confianza_tipo": 0.87,
+    "marca_modelo_crudo": "hyundai_veracruz_suv_2012",
+    "confianza_marca_modelo": 0.19,
+    "estado_visual": null,
+    "confianza_estado_visual": null,
+    "texto_ocr_crudo": "3218Q2",
+    "confianza_ocr": 0.73,
+    "ruta_crop_vehiculo": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_vehiculo_21.jpg",
+    "ruta_crop_placa": "F_ProyectoCV-Evidencias_Aranza.pdf#attachment=cv_18477437_placa_21.jpg",
+    "n_frames": 27,
+    "t_inicio_seg": 13.133,
+    "t_fin_seg": 14.867,
+    "duracion_segundos": 1.8,
+    "cuadro_inicio": 197,
+    "cuadro_fin": 223,
+    "fps_analisis": 15.0,
+    "fragmentos_fusionados": 1,
+    "fraccion_horizontal_inicio": 0.866,
+    "fraccion_horizontal_fin": 0.865,
+    "desplazamiento_px": 232.57,
+    "preprocesamiento_placa": [
+      "iluminacion(brillo=136)"
+    ],
+    "region_placa_ocr": "Georgia",
+    "confianza_region_placa": 0.62,
+    "marca_modelo_confianza_suficiente": false,
+    "fuente": "18477437-hd_1080_1920_30fps.mp4",
+    "tramos_visibles": [
+      [
+        197,
+        223
+      ]
+    ],
+    "ruta_video_procesado": "S_ProyectoCV-video_procesado_18477437_Aranza.mp4"
+  }
+]
